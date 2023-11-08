@@ -1,0 +1,28 @@
+.top1{
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.top2{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    background-color: aqua;
+}
+.First-Portion{
+    font-size: 15px;
+    font-family: Roboto,Arial;
+    font-weight: solid;
+    color: purple;
+}
+
+
+
+.Final-Portion{
+    font-size: 15px;
+    font-family: Roboto,Arial;
+    font-weight: solid;
+    color: purple;
+}
